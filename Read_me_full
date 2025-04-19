@@ -9,11 +9,11 @@ As I am writing this, I believe I have managed to do both.
 The foundation laid by all the software engineers and coders that made this project possible for me to execute, 
 I thank you. This guide is mainly made as practice and is not necessarily meant to be followed or installed by anyone.
 
-Assumptions & Prerequisites:
+Assumptions & Prerequisites
 Dependencies
 Security concerns
-Placeholders Used in this Guide:
-Guide Sections:
+Placeholders Used in this Guide
+Guide Sections
 A) Initial Server Setup & Checks	
 A.1: Verify or create user	
 A.2: SSH Server	
