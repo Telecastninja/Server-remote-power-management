@@ -1,5 +1,8 @@
 # Server-remote-power-management
 
+My first (complete and working) project
+Ain´t gonna lie, I had fun doing this and I will try more advanced projects in the future.
+
 This was made to solve a very specific real world problem for a very specific situation by a person who had never built anything before this.
 It is for all intents and purposes a hobbist project where I try to solve a problem for people who don´t even know how to access a computer or server remotly.
 The intended users technical provess was a significant hurdle magnified by my own inaptitude. But here it is in all its being(?)
@@ -10,8 +13,8 @@ with easy-to-use start and stop functions to avoid unnecessary power usage when 
 This project had two key goals it had to reach; it had to be simple enough for me to execute without much prior knowledge and even simpler for the end user to use. 
 As I am writing this, I believe I have managed to do both. 
 
-The foundation laid by all the software engineers and coders that made this project possible for me to execute, 
-I thank you. This guide is mainly made as practice and is not necessarily meant to be followed or installed by anyone.
+The foundation laid by all the software engineers and coders that made this project possible for me to execute, I thank you. 
+This guide is mainly made as practice and is not necessarily meant to be followed or installed by anyone.
 
 
 Security Concerns
