@@ -1,4 +1,4 @@
-# Server-remote-power-management
+# Simple-remote-on-off-for-Ubuntu-fileshare
 
 My first (complete and working) project Ain't gonna lie, I had fun doing this and I will try more advanced projects in the future.
 
