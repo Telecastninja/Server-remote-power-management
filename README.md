@@ -1,5 +1,4 @@
 # Server-remote-power-management
-Small but unsecure power managment for Ubuntu file server
 
 This was made to solve a very specific real world problem for a very specific situation by a person who had never built anything before this.
 It is for all intents and purposes a hobbist project where I try to solve a problem for people who don´t even know how to access a computer or server remotly.
